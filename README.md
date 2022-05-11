@@ -12,3 +12,20 @@ cp .env.example .env
 npm install
 npm run dev
 ```
+
+## Próximos passos
+
+* Tratar erros
+  * JSON Response para o e-mail
+  * Report via e-mail
+* Configurar ambiente de PR
+  * Mesmo MongoDB, collection diferente
+* Configurar serviço de e-mail
+* E-mail do administrador como ENV
+* Melhorar HTML/CSS do e-mail
+* Health Check
+* GET /feedbacks
+* GET /feedbacks/{id}
+* Paginação do GET /feedbacks
+* Autenticação
+  * Model Users
