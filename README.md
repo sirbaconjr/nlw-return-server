@@ -18,6 +18,7 @@ npm run dev
 * Tratar erros
   * JSON Response para o e-mail
   * Report via e-mail
+* Tratar throttling
 * Configurar ambiente de PR
   * Mesmo MongoDB, collection diferente
 * Configurar serviço de e-mail
